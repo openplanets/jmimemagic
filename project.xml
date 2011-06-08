@@ -50,7 +50,6 @@
 				</resource>
 			</resources>
 		</unitTest>
-		<unitTestSourceDirectory>src/test</unitTestSourceDirectory>
 		<resources>
 			<resource>
 				<targetPath>/</targetPath>
