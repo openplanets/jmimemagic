@@ -44,7 +44,6 @@
     <testSourceDirectory>${basedir}/src/test</testSourceDirectory>
     <resources>
       <resource>
-        <targetPath>.</targetPath>
         <directory>resources</directory>
         <includes>
           <include>*.properties</include>
@@ -58,7 +57,6 @@
     </resources>
     <testResources>
       <testResource>
-        <targetPath>.</targetPath>
         <directory>resources</directory>
         <includes>
           <include>*.properties</include>
