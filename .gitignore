@@ -2,5 +2,6 @@ build.properties
 target
 .project
 .classpath
+.settings
 *.log
 log
